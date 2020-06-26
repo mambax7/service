@@ -29,8 +29,8 @@ namespace XoopsModules\Service;
 interface Constants
 {
 	// Constants for tables
-	const TABLE_CATEGORIES = 0;
-	const TABLE_SERVICES = 1;
+    public const TABLE_CATEGORIES = 0;
+    public const TABLE_SERVICES = 1;
 
 	// Constants for status
 	public const STATUS_NONE      = 0;
